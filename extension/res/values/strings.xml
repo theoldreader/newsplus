@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    
+    <string name="app_name">The Old Reader | News+</string>
+        
+    <!-- Extension -->
+    <string name="extension_name">The Old Reader</string>
+    <string name="extension_description">The Old Reader is a simple, web-based RSS reader with lots of great sharing features.</string>
+    <string name="extension_settings_title">Settings</string>
+    <string name="extension_login_title">Login</string>
+    
+    <string name="msg_login_running">Login…</string>
+    <string name="msg_login_fail">Login failure</string>
+    
+    <!-- login -->
+    <string name="login_id">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_getting_started_text">The Old Reader is a simple, web-based RSS reader with lots of great sharing features. This is an extension that requires <b>News+</b> to work with.</string>
+    <string name="login_welcome">You need to create account and set your mobile login and password in the settings on <a href="https://theoldreader.com">https://theoldreader.com</a>.</string>
+                
+    <string name="txt_login">Login</string>
+    <string name="txt_start_app">Start News+</string>
+    <string name="txt_download_app">Download News+</string>
+    <string name="txt_feedback">Feedback</string>
+    <string name="txt_changelog">Change log</string>
+    <string name="txt_rate">Rate the extension</string>
+    <string name="txt_hide_icon">Hide icon from launcher drawer </string>
+    
+    <!-- err -->
+    <string name="err_io">Network error</string>
+
+    <string name="time_today">Today</string>
+    <string name="time_yesterday">Yesterday</string>
+    
+    
+</resources>
+    
