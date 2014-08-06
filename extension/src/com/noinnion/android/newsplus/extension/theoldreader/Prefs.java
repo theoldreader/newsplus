@@ -8,7 +8,7 @@ import com.noinnion.android.reader.api.ExtensionPrefs;
 public class Prefs extends ExtensionPrefs {
 
 	public static final String	APP_PACKAGE					= "com.noinnion.android.newsplus.extension.theoldereader";					//$NON-NLS-1$
-	public static final String	APP_SUPPORT_EMAIL			= "admin@theoldreader.com";
+	public static final String	APP_SUPPORT_EMAIL			= "support@theoldreader.com";
 	
 	
 	public static final String	KEY_USER_ID					= "user_id";
