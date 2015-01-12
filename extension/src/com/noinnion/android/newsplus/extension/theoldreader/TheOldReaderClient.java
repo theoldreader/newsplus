@@ -812,7 +812,7 @@ public class TheOldReaderClient extends ReaderExtension {
 		buff.append("&s=").append(Utils.encode(stream));
 		
 		// exclude read
-		if (handler.excludeRead()) buff.append("&xt=").append(STATE_READ);
+		if (handler.excludeRead()) buff.append("&xt=").append(STATE_GOOGLE_READ);
 
 		// start time
 		long startTime = handler.startTime();
